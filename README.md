@@ -1,5 +1,10 @@
 # Employee Records Smart Contract
 
+![UI](IMG-20250117-WA0011.jpg)
+
+
+![UI](IMG-20250117-WA0012.jpg)
+
 ## Overview
 
 The Employee Records Smart Contract is a secure and efficient way to manage employee records on a blockchain. This contract allows for the storage, updating, and retrieval of employee data such as personal details, position, department, and employment dates.
